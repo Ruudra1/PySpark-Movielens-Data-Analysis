@@ -21,7 +21,7 @@ This project analyzes the MovieLens dataset using PySpark to extract meaningful 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/Ruudra1/PySpark-Movielens-Data-Analysis.git)
+   git clone https://github.com/Ruudra1/PySpark-Movielens-Data-Analysis.git
    cd PySpark-Movielens-Data-Analysis
    ```
 
