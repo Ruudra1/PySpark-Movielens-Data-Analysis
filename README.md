@@ -21,8 +21,8 @@ This project analyzes the MovieLens dataset using PySpark to extract meaningful 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [<repository-url>](https://github.com/Ruudra1/PySpark-Movielens-Data-Analysis.git)
+   cd PySpark-Movielens-Data-Analysis
    ```
 
 2. Create and activate a virtual environment (recommended):
@@ -45,7 +45,7 @@ This project analyzes the MovieLens dataset using PySpark to extract meaningful 
    jupyter notebook
    ```
 
-2. Open `Project1_Spark_Ruudra_Patel.ipynb` in your browser.
+2. Open `MovieLens_Data_Analysis_PySpark.ipynb` in your browser.
 
 3. Run the notebook cells sequentially to execute the analysis.
 
